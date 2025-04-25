@@ -1,4 +1,3 @@
-# -Exploratory-Data-Analysis-EDA-AI-ML-intern-Task-2-
 # Exploratory Data Analysis (EDA) - Titanic Dataset
 
 This project performs exploratory data analysis on the Titanic dataset to understand the data through statistical summaries and visualizations. The goal is to uncover insights and patterns that could be useful for further modeling or analysis.
